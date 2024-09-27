@@ -1,0 +1,7 @@
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\styles\ButtonStyles.baml
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\styles\TextBlockStyles.baml
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\styles\TextBoxStyles.baml
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\App.g.cs
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\ViewModelTutorial_MarkupCompile.cache
+F:\Wpftutorials\ViewModel\ViewModel\obj\Debug\net8.0-windows\ViewModelTutorial_MarkupCompile.lref
